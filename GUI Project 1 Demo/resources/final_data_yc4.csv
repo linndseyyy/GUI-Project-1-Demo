@@ -1,0 +1,642 @@
+ma_san_pham,ten_san_pham,avg_so_sao,total_positive,total_negative,most_popular_positive_word,most_popular_negative_word
+100100001,Sáp Dưỡng Ẩm Vaseline Original Healing Jelly 49g,4.833333333333333,3,0,tốt,
+100140034,Mặt Nạ Ngủ Laneige Dưỡng Ẩm & Tăng Khả Năng Tự Vệ Da 70ml,5.0,1,0,tốt,
+100140042,Gel Dưỡng Ẩm Nature Republic Chiết Xuất Lô Hội 300ml,4.888888888888889,3,0,tốt,
+100150041,"Xịt Khoáng Vichy Làm Dịu, Củng Cố & Cấp Ẩm Cho Da 50ml",3.75,0,0,,
+100150058,Xịt Khoáng Evoluderm Cấp Nước & Làm Dịu Da 400ml,4.5,3,0,thích,
+100150059,Xịt Khoáng Evoluderm Cấp Nước & Làm Dịu Da 150ml,3.857142857142857,6,0,ổn,
+100150065,"Xịt Khoáng Avène Cấp Nước, Làm Dịu & Giảm Kích Ứng 50ml",5.0,0,0,,
+100150067,"Xịt Khoáng Avène Cấp Nước, Làm Dịu & Giảm Kích Ứng 300ml",5.0,4,1,tốt,khó_chịu
+100150091,Xịt Khoáng Evian Cấp Ẩm Và Làm Dịu Da 50ml,5.0,3,0,tốt,
+100160021,Kem Chống Nắng Vichy Có Màu Thoáng Mịn Ngăn Sạm Da 50ml,4.666666666666667,10,0,ổn,
+100160022,Kem Chống Nắng Vichy Thoáng Nhẹ Không Bóng Dầu SPF 50 50ml,4.0,8,1,tốt,không_thích
+100180080,Kem Dưỡng Avène Hỗ Trợ Khôi Phục Hàng Rào Bảo Vệ Da 40ml,5.0,0,0,,
+100180089,Kem Dưỡng Avène Giảm Khô Ngứa Cho Da Viêm Thể Tạng 200ml,4.5,2,0,tốt,
+100180113,Kem Dưỡng Bioderma Hỗ Trợ Phục Hồi Da Tổn Thương 40ml,4.315789473684211,12,3,tốt,không_thích
+100180148,Kem Dưỡng Bioderma Giúp Se Khít Lỗ Chân Lông 30ml,4.714285714285714,10,1,tốt,chậm
+100190059,"[Mini] Gel Rửa Mặt La Roche-Posay Dành Cho Da Dầu, Nhạy Cảm 50ml",4.25,9,2,tốt,không_ổn
+100190183,Nước Tẩy Trang Nivea Kiểm Soát Nhờn 200ml,5.0,0,0,,
+100210014,Tẩy Da Chết Paula’s Choice 5% AHA Cho Da Thường Khô 50ml,5.0,1,0,thích,
+100210015,"Serum Timeless Hyaluronic Acid Cấp Nước, Dưỡng Ẩm Da 30ml",5.0,2,0,tốt,
+100210016,"Serum Timeless HA + Vitamin C Cấp Ẩm, Làm Sáng Da 30ml",4.2,9,3,hiệu_quả,tệ
+100210020,Bút Chấm Eucerin Chuyên Biệt Mờ Đốm Nâu & Thâm Nám 5ml,4.555555555555555,24,2,hiệu_quả,thất_vọng
+100210023,Serum Timeless Vitamin B5 Làm Dịu & Phục Hồi Da 30ml,4.9772727272727275,46,2,tốt,tệ
+100220009,Sữa Rửa Mặt St.Ives Tẩy Tế Bào Chết Trà Xanh & Than Tre 170g,5.0,4,0,tuyệt_vời,
+100220010,Sữa Rửa Mặt St.Ives Tẩy Tế Bào Chết Trái Mơ Ngừa Mụn 170g,4.375,2,1,ổn,hạn_chế
+100220035,Dung Dịch Tẩy Da Chết Paula’s Choice 2% BHA 30ml,4.69811320754717,47,4,tốt,chậm
+100220037,Sữa Rửa Mặt St.Ives Tẩy Tế Bào Chết Trái Mơ Tươi Mát 170g,4.666666666666667,6,0,thích,
+100230026,Nước Hoa Hồng Evoluderm Dành Cho Da Khô Và Nhạy Cảm 250ml,5.0,0,0,,
+100230056,Nước Tẩy Trang Bioderma Dành Cho Da Nhạy Cảm 100ml,4.733333333333333,11,0,tốt,
+100230057,Nước Tẩy Trang Bioderma Dành Cho Da Nhạy Cảm 250ml,4.846153846153846,8,0,thích,
+100230059,Nước Tẩy Trang Bioderma Dành Cho Da Dầu & Hỗn Hợp 100ml,4.857142857142857,19,0,thích,
+100230064,Nước Tẩy Trang Bioderma Dành Cho Da Dầu & Hỗn Hợp 250ml,4.6,14,1,thích,thất_vọng
+100230069,Bông Tẩy Trang Silcot Cơ Bản Hộp 82 Miếng,4.5625,9,1,thích,thất_vọng
+100230070,Bông Tẩy Trang Silcot Cao Cấp Hộp 66 Miếng,4.2,4,0,chất_lượng,
+100230076,Nước Tẩy Trang Evoluderm Cho Da Khô Và Nhạy Cảm 500ml,1.0,0,0,,
+100240016,Dung Dịch Tẩy Da Chết Paula’s Choice 2% BHA 118ml,4.75,49,3,tốt,chậm
+100250032,Miếng Dán Mụn Mayan Ultra Thin Spot Plus 12+8 Miếng,5.0,8,0,tốt,
+100250033,Miếng Dán Mụn Mayan Ultra Thin Spot 20+4 Miếng,4.25,2,0,thích,
+100270008,Gel Dưỡng Mắt Bioderma Giúp Làm Dịu Và Cấp Ẩm Cho Da 15ml,5.0,1,0,hiệu_quả,
+100280011,Gel Dưỡng Mắt Rebirth Ngăn Ngừa Nếp Nhăn & Quầng Thâm 30g,5.0,0,0,,
+100750038,Nước Tẩy Trang Byphasse Cho Mọi Loại Da 500ml,4.648148148148148,56,6,tốt,khó_chịu
+200400003,Nước Tẩy Trang Bioderma Dành Cho Da Nhạy Cảm 500ml,4.857142857142857,13,0,tốt,
+200400004,Nước Tẩy Trang Bioderma Dành Cho Da Dầu & Hỗn Hợp 500ml,4.666666666666667,17,1,tốt,không_phù_hợp
+200400038,"Kem Dưỡng Bioderma Hỗ Trợ Phục Hồi, Ngừa Thâm SPF50 30ml",5.0,0,0,,
+200400041,"Kem Chống Nắng Bioderma Dành Cho Da Dầu, Mụn SPF30 40ml",4.0,1,0,tốt,
+200500095,Mặt Nạ Ngủ Môi Laneige Hương Quả Mọng 20g,5.0,6,0,tốt,
+200500283,[Mini] Mặt Nạ Ngủ Môi Laneige Hương Quả Mọng 8g,4.75,3,0,tốt,
+200500293,[Mini] Mặt Nạ Ngủ Môi Laneige Hương Quả Mọng 3g,4.8,3,0,ổn,
+201100053,Nhíp Lấy Mụn Vacosi Blackhead Tweezers T07,4.0,4,0,tốt,
+201600019,Serum Vichy 89 Khoáng Chất Phục Hồi Chuyên Sâu 50ml,4.8,2,0,thích,
+201600072,"Kem Chống Nắng Vichy Bảo Vệ, Giảm Lão Hóa 50ml",4.25,2,1,ổn,không_hợp
+201600074,Serum Vichy 89 Khoáng Chất Phục Hồi Chuyên Sâu 30ml,5.0,3,0,hài_lòng,
+201600141,Sữa Rửa Mặt Vichy Dạng Gel Làm Sạch Sâu & Giảm Nhờn 200ml,5.0,5,0,thích,
+201600144,Sữa Rửa Mặt Vichy Dạng Gel Làm Sạch Sâu Da Dầu Mụn 50ml,3.6666666666666665,3,0,tốt,
+201600166,"Kem Dưỡng Vichy Ngừa Lão Hóa, Săn Chắc Da Ban Ngày 50ml",5.0,2,0,tốt,
+201600182,Sữa Rửa Mặt Vichy Dạng Gel Làm Sạch Sâu & Giảm Nhờn 400ml,5.0,1,0,hiệu_quả,
+201600198,Kem Chống Nắng Vichy Chống Bụi Mịn Cho Da Dầu Mụn 50ml,4.333333333333333,17,4,tốt,không_hợp
+204000033,Nước Hoa Hồng Evoluderm Dành Cho Da Khô Và Nhạy Cảm 500ml,4.0,1,0,chất_lượng,
+204000059,Combo Xịt Khoáng Evoluderm Cấp Nước Cho Da 150ml & 400ml,4.0,5,0,ổn,
+204000071,Nước Hoa Hồng Evoluderm Cho Da Hỗn Hợp Và Dầu Mụn 250ml,4.6,5,1,tốt,không_thích
+204100003,Kem Chống Nắng Eucerin Kiềm Dầu & Ngừa Mụn 50ml,4.625,31,2,tốt,khó_chịu
+204100013,Kem Dưỡng Ẩm Eucerin Chuyên Sâu Cho Da Khô 50ml,4.541666666666667,34,3,tốt,không_hài_lòng
+204100018,Kem Dưỡng Eucerin Giúp Làm Giảm Dầu & Mụn 50ml,4.723404255319149,51,4,tốt,không_hợp
+204100019,Gel Rửa Mặt Eucerin Cho Da Nhờn Mụn 200ml,4.552631578947368,31,3,ổn,kém
+204100023,Gel Giảm Mụn Eucerin Dành Cho Mụn Viêm & Không Viêm 40ml,4.918918918918919,46,1,tốt,phức_tạp
+204100024,Toner Eucerin Dành Cho Da Nhờn Mụn 200ml,4.75,2,0,tốt,
+204100054,Gel Rửa Mặt Eucerin Cho Da Nhờn Mụn 400ml,4.53125,30,4,tốt,kém
+204100070,Serum Eucerin Cấp Ẩm & Ngăn Ngừa Lão Hóa 30ml,4.764705882352941,17,2,hiệu_quả,không_thích
+204100075,Nước Tẩy Trang Eucerin Dịu Nhẹ Cho Da Nhạy Cảm 200ml,5.0,1,0,tốt,
+204100078,Xịt Dưỡng Ẩm Eucerin Cho Da Nhạy Cảm 150ml,4.625,12,1,hiệu_quả,chậm
+204100079,Xịt Dưỡng Ẩm Eucerin Cho Da Nhạy Cảm 50ml,5.0,5,0,thích,
+204100082,Gel Rửa Mặt Eucerin Làm Sạch Dịu Nhẹ Da Nhạy Cảm 200ml,5.0,4,0,tốt,
+204900004,"Gel Rửa Mặt La Roche-Posay Dành Cho Da Dầu, Nhạy Cảm 200ml",4.5,21,2,tốt,không_thích
+204900005,[Mini] Nước Tẩy Trang La Roche-Posay Dành Cho Da Nhạy Cảm 50ml,4.666666666666667,5,0,tốt,
+204900009,Nước Tẩy Trang La Roche-Posay Dành Cho Da Nhạy Cảm 200ml,4.857142857142857,5,0,tốt,
+204900010,"Nước Tẩy Trang La Roche-Posay Cho Da Dầu, Nhạy Cảm 200ml",4.428571428571429,0,1,,khó_chịu
+204900013,Kem Chống Nắng La Roche-Posay Kiểm Soát Dầu SPF50+ 50ml,4.584415584415584,66,15,tốt,tệ
+204900024,Nước Tẩy Trang La Roche-Posay Dành Cho Da Nhạy Cảm 400ml,4.75,2,0,tốt,
+204900025,"Nước Tẩy Trang La Roche-Posay Cho Da Dầu, Nhạy Cảm 400ml",5.0,3,0,tốt,
+204900056,"Gel Rửa Mặt La Roche-Posay Dành Cho Da Dầu, Nhạy Cảm 400ml",4.615384615384615,8,1,tốt,không_hợp
+204900080,[Mini] Kem Chống Nắng La Roche-Posay Kiểm Soát Dầu SPF50+ 3ml,5.0,1,0,tốt,
+204900127,Combo 2 Xịt Khoáng La Roche-Posay Làm Dịu Và Bảo Vệ Da 50g,4.666666666666667,3,0,tuyệt_vời,
+204900128,Combo 2 Gel Rửa Mặt La Roche-Posay Cho Da Dầu Nhạy Cảm 50ml,4.909090909090909,15,2,tốt,khó_chịu
+204900145,Gel Rửa Mặt & Tắm La Roche-Posay Làm Sạch & Giảm Mụn 400ml,4.6,9,1,tốt,không_hợp
+204900155,Kem Chống Nắng La Roche-Posay Nâng Tông Sáng Ánh Hồng 30ml,5.0,0,0,,
+204900159,Combo 4 Gel Rửa Mặt La Roche-Posay Cho Da Dầu Nhạy Cảm 50ml,3.8,9,1,tốt,không_hài_lòng
+205100136,"Nước Tẩy Trang L'Oreal Dưỡng Ẩm Cho Da Thường, Khô 400ml",4.6,23,2,tốt,không_hợp
+205100137,"Nước Tẩy Trang L'Oreal Tươi Mát Cho Da Dầu, Hỗn Hợp 400ml",4.305555555555555,26,4,tốt,không_đáng
+205100146,Nước Tẩy Trang L'Oreal Làm Sạch Sâu Trang Điểm 400ml,4.172413793103448,16,4,tốt,kém
+206200037,Nước Tẩy Trang Nivea Ngăn Ngừa Mụn 200ml,4.0,1,0,ổn,
+206200079,Sữa Rửa Mặt Nivea Men Than Đen Hoạt Tính Sáng Da 100g,5.0,0,0,,
+206400009,Kem Dưỡng Olay Total Effects Ngừa Lão Hóa Da Ban Đêm 50g,5.0,0,0,,
+206400010,Kem Dưỡng Olay Total Effects Dịu Nhẹ Ngừa Lão Hóa Ban Ngày 50g,3.5,0,0,,
+206400011,Kem Dưỡng Olay Ban Ngày Ngăn Ngừa 7 Dấu Hiệu Lão Hóa 50g,4.8,1,0,ổn,
+206400019,Kem Dưỡng Olay Luminous Sáng Da Mờ Thâm Nám Ban Đêm 50g,4.75,3,0,cải_thiện,
+206700001,Mặt Nạ Purederm Sủi Bọt Thải Độc Da 20g,4.333333333333333,8,1,tốt,không_thích
+207300009,Sữa Rửa Mặt St.Ives Tẩy Tế Bào Chết Cà Phê & Dừa 170g,4.0,5,1,tốt,kém
+207500001,Combo 2 Hộp Bông Tẩy Trang Silcot Cơ Bản 82 Miếng,4.5,4,1,tốt,tệ
+207500002,Combo 2 Hộp Bông Tẩy Trang Silcot Cao Cấp 66 Miếng,4.75,1,0,tốt,
+207500003,Combo 2 Hộp Bông Đắp Dưỡng Silcot Miếng Đôi 40 Miếng,5.0,2,0,tốt,
+207500007,Combo 3 Hộp Bông Tẩy Trang Silcot Cơ Bản 82 Miếng,4.3,8,4,tốt,kém
+207500008,Combo 3 Hộp Bông Tẩy Trang Silcot Cao Cấp 66 Miếng,5.0,0,0,,
+208000001,"Serum Timeless Hyaluronic Acid Cấp Nước, Dưỡng Ẩm Da 60ml",3.6666666666666665,3,0,cải_thiện,
+211300002,Nước Hoa Hồng Simple Làm Dịu Da & Cấp Ẩm 200ml,4.69811320754717,71,3,tốt,không_thích
+211300005,Nước Tẩy Trang Simple Làm Sạch Trang Điểm 200ml,4.8,1,0,thích,
+211300007,Sữa Rửa Mặt Simple Giúp Da Sạch Thoáng 150ml,4.5588235294117645,30,7,thích,không_thích
+211300008,Sữa Rửa Mặt Simple Dưỡng Ẩm Cho Da Khỏe Và Mịn Màng 150ml,4.333333333333333,4,1,ổn,không_ổn
+213300001,Sữa Chống Nắng Bioré Bảo Vệ Hoàn Hảo - Mát Lạnh 25ml,5.0,0,0,,
+213300003,Sữa Chống Nắng Bioré Sáng Hồng Tự Nhiên SPF50+/PA++++ 30ml,4.8,3,0,tốt,
+213300004,Sữa Chống Nắng Bioré Trang Điểm SPF 50+/PA++++ 30ml,5.0,2,0,tốt,
+213300005,Sữa Chống Nắng Bioré Sáng Mịn Kiềm Dầu SPF 50+/PA++++ 30ml,5.0,2,0,tốt,
+213300007,Sữa Chống Nắng Bioré Chống Thấm Nước SPF 50+/PA++++ 40ml,4.833333333333333,7,1,thích,không_phù_hợp
+213300016,Sữa Chống Nắng Bioré Bảo Vệ Hoàn Hảo - Sáng Mịn 25ml,5.0,10,0,tốt,
+213300043,Khăn Tẩy Trang Bioré Dưỡng Ẩm 10 Miếng (Hồng),5.0,4,2,tiện_lợi,chán
+213300058,Miếng Dán Mũi Lột Mụn Bioré Than Hoạt Tính (4 Miếng),3.0,7,2,ổn,tệ
+213300064,Sữa Rửa Mặt Bioré Thanh Lọc Da - Ngừa Mụn 100g,4.8,6,0,tốt,
+213300093,Essence Chống Nắng Bioré Màng Nước Dưỡng Ẩm Da 85g,4.0,0,0,,
+213300094,Sữa Chống Nắng Bioré Dịu Nhẹ Cho Trẻ Em 70ml,4.25,3,1,tốt,tệ
+214000001,"Serum Melano CC Dưỡng Sáng Da, Ngừa Thâm Nám 20ml",4.368421052631579,20,2,tốt,không_thích
+217300001,Bông Tẩy Trang Jomi 120 Miếng,3.75,9,1,thích,tệ
+222200007,Xịt Khoáng Uriage Dưỡng Ẩm Cho Mọi Loại Da 300ml,5.0,3,0,tốt,
+222600006,Gel Tẩy Tế Bào Chết Bio-essence Dưỡng Da Tươi Trẻ 60g,5.0,15,1,thích,không_hợp
+222600014,Nước Xịt Khoáng Bio-essence Dưỡng Da Ẩm Mượt Mịn Màng 100ml,4.666666666666667,5,0,tốt,
+222600016,Sữa Rửa Mặt Bio-essence Cho Da Dầu & Hỗn Hợp 100g,5.0,4,0,ổn,
+222600030,Nước Dưỡng Bio-essence Vàng 24K Ngừa Lão Hoá Da 150ml,5.0,8,1,ổn,thất_vọng
+222600049,Nước Tẩy Trang Bio-essence Không Cồn Sạch Sâu Da 400ml,5.0,4,0,tốt,
+222600052,Nước Tẩy Trang Bio-essence Không Cồn Sạch Sâu Da 100ml,5.0,8,1,tốt,khó_chịu
+222600057,Kem Dưỡng Bio-essence Dưỡng Da Tươi Sáng Căng Mọng 50g,4.777777777777778,13,0,tốt,
+223600003,Sữa Rửa Mặt Senka Tạo Bọt Chiết Xuất Tơ Tằm Trắng 120g,4.333333333333333,2,0,tốt,
+223600009,Gel Sữa Chống Nắng Senka Ẩm Mượt Cho Da Khô 80g,4.4,3,2,cẩn_thận,không_thích
+223600010,"Sữa Chống Nắng Senka Kiềm Dầu, Mịn Lì Cho Da Dầu 40ml",4.545454545454546,7,1,tốt,không_thích
+223600017,Sữa Rửa Mặt Senka Tẩy Trang 2 Trong 1 120g,5.0,2,0,tốt,
+223600026,"Nước Tẩy Trang Senka Ngừa Mụn, Kiểm Soát Nhờn 230ml",5.0,5,0,tốt,
+223600032,"Nước Dưỡng Da Senka Sáng Hồng, Mờ Thâm Sạm 200ml",4.571428571428571,3,0,tốt,
+223600034,Tinh Chất Chống Nắng Senka Nâng Tông Sáng Mượt Da Dầu 50g,4.7,4,1,thích,không_hợp
+223600035,"Nước Tẩy Trang Senka Cấp Ẩm, Dưỡng Sáng Da 230ml",4.3125,8,2,tốt,thất_vọng
+223600036,Chống Nắng Serum Senka 3 In 1 Dưỡng Sáng Da Nâng Tông 40g,4.0,2,1,thích,không_hợp
+223600039,"Kem Dưỡng Senka Sáng Da, Mờ Thâm Sạm Ban Đêm 50g",4.666666666666667,2,0,thích,
+223600040,Kem Dưỡng Senka Sáng Da Chống Nắng Ban Ngày 50g,3.3333333333333335,0,1,,không_hợp
+223600048,Sữa Rửa Mặt Senka Dành Cho Da Mụn 100g,5.0,3,0,hiệu_quả,
+223600058,Mặt Nạ Ngủ Senka Cấp Ẩm Chuyên Sâu Dạng Gel 50g,4.545454545454546,10,2,tốt,khó_chịu
+224100001,"Dung Dịch Hada Labo Dưỡng Ẩm Tối Ưu Da Thường, Khô 100ml",5.0,1,0,tốt,
+224100002,Dung Dịch Hada Labo Dưỡng Ẩm Tối Ưu Cho Da Dầu 100ml,4.25,4,1,hiệu_quả,không_hợp
+224100004,"Dung Dịch Hada Labo Dưỡng Ẩm Tối Ưu Da Thường, Khô 170ml",5.0,4,0,tốt,
+224100007,Kem Dưỡng Ẩm Hada Labo Tối Ưu Cho Mọi Loại Da 50g,4.1,14,2,tốt,không_tốt
+224100008,"Kem Rửa Mặt Hada Labo Sạch Sâu, Dưỡng Sáng Da 80g",4.777777777777778,13,1,tốt,không_tốt
+224100009,Kem Rửa Mặt Hada Labo Sạch Sâu Dưỡng Ẩm 80g,4.770491803278689,38,6,tốt,khó_chịu
+224100019,"Kem Dưỡng Hada Labo Sáng Da Chuyên Sâu, Giảm Thâm Sạm 50g",4.565217391304348,10,4,tốt,tệ
+224100022,Dầu Tẩy Trang Hada Labo Sạch Sâu Dưỡng Ẩm Tối Ưu 200ml,5.0,9,0,tốt,
+224100029,Dung Dịch Hada Labo Gokujyun Dưỡng Ẩm Da Tối Ưu 170ml,5.0,9,1,tốt,không_hợp
+225200013,Mặt Nạ Ngủ Môi Care:Nel Chiết Xuất Quả Mọng 5g,4.75,8,0,thích,
+225200015,Mặt Nạ Ngủ Môi Care:Nel Chiết Xuất Quả Mọng 23g,4.8,7,0,thích,
+225300001,Sữa Rửa Mặt Isis Pharma Giảm Nhờn Và Ngăn Ngừa Mụn 150ml,4.0,3,0,ổn,
+225300002,Sữa Rửa Mặt Isis Pharma Giảm Nhờn Và Ngăn Ngừa Mụn 40ml,4.5,3,1,tốt,thất_vọng
+226200007,Sữa Rửa Mặt Acnes Dưỡng Sáng Và Ngăn Ngừa Mụn 100g,5.0,3,0,thích,
+226200009,Gel Rửa Mặt Acnes Giúp Kiểm Soát Nhờn 100g,5.0,0,1,,không_hợp
+226200017,Gel Giảm Mụn Acnes Đầu Trắng Và Đầu Đen 18g,4.0,2,0,hài_lòng,
+226200018,Miếng Dán Mụn Acnes Giúp Giảm Mụn Sưng Viêm 24 Miếng,4.375,5,0,tốt,
+226200031,Dung Dịch Tạo Bọt Acnes Ngăn Ngừa Mụn 150ml,5.0,0,0,,
+231100005,"Serum GoodnDoc Dưỡng Ẩm, Hỗ Trợ Phục Hồi Da 30ml",4.666666666666667,4,4,tốt,thất_vọng
+232500001,Lotion Meishoku Bigansui Ngăn Ngừa Mụn 90ml,4.5,15,1,tốt,kém
+232500022,"Kem Dưỡng Mắt Meishoku Ngừa Lão Hóa, Giảm Quầng Thâm 30g",4.555555555555555,18,3,cải_thiện,không_thích
+237800005,Bông Tẩy Trang Mihoo Bông Tròn Túi 200 Miếng,4.7368421052631575,13,1,tốt,không_thích
+237800007,Bông Tẩy Trang Mihoo Bông Tròn Túi 150 Miếng,5.0,1,0,tốt,
+243300007,Bông Tẩy Trang Ipek 150 Miếng,3.6842105263157894,15,4,tốt,tệ
+245500001,Tẩy Tế Bào Chết Rosette Cho Mọi Loại Da 120g,4.875,6,1,tốt,khó_chịu
+245500002,Tẩy Tế Bào Chết Rosette Cho Da Khô 120g,4.888888888888889,10,1,tốt,hạn_chế
+245500009,Tẩy Tế Bào Chết Rosette Cho Mọi Loại Da 180g,4.545454545454546,3,1,tốt,khó_chịu
+245500010,Tẩy Tế Bào Chết Rosette Cho Da Khô 180g,4.714285714285714,5,1,ổn,buồn
+248100018,Nước Hoa Hồng EVELINE Chiết Xuất Trà Matcha 400ml,5.0,7,2,thích,không_thích
+248700001,Sữa Rửa Mặt Naris Acmedica Chăm Sóc Da Mụn 100g,4.666666666666667,14,0,tốt,
+248700002,Nước Dưỡng Da Naris Acmedica Dành Cho Da Mụn 150ml,4.285714285714286,11,1,tốt,không_hợp
+248700003,Gel Dưỡng Mắt Naris Cosmetics Ngừa Thâm & Nếp Nhăn 20g,4.888888888888889,15,0,cải_thiện,
+248700027,Xịt Chống Nắng Naris Cosmetics Dưỡng Sáng Da 90g,4.7,13,2,tốt,tệ
+248700032,"Kem Dưỡng Mắt Naris Cosmetics Sáng Da, Ngừa Nếp Nhăn 20g",4.166666666666667,11,0,tốt,
+248700034,Sữa Dưỡng Naris Acne Grand Cho Da Mụn 160ml,4.6,8,0,tốt,
+248700035,Kem Chống Nắng Naris Cosmetics Dạng Gel Nâng Tone Da 80g,4.457142857142857,38,8,tốt,tệ
+248700042,Kem Dưỡng Naris Cosmetics Collagen Ngừa Lão Hóa Da 48g,5.0,9,0,thích,
+248700052,Dầu Tẩy Trang Naris Acne Grand Dành Cho Da Mụn 100ml,4.333333333333333,5,1,thích,không_đáng
+248700053,Sữa Rửa Mặt Naris Acne Grand Cho Da Dầu Mụn 100g,4.857142857142857,4,0,tốt,
+248700054,Gel Chấm Mụn Naris Cosmetics Acne Grand 20g,5.0,18,1,tốt,không_tốt
+248700055,Sữa Dưỡng Naris Cosmetics Hyaluronic Acid Cấp Ẩm Da 150ml,5.0,13,0,tốt,
+248700057,Kem Dưỡng Naris Cosmetics Cấp Ẩm Chuyên Sâu 48g,5.0,14,0,tốt,
+248700058,Sữa Rửa Mặt Và Tẩy Trang Naris Cosmetics Dưỡng Ẩm 100g,5.0,1,0,thích,
+248700062,Kem Dưỡng Ẩm Naris Alodew Chiết Xuất Lô Hội 97g,5.0,3,0,thích,
+248700072,Sữa Rửa Mặt Naris Nature Dưỡng Sáng Da 100g,5.0,2,0,tốt,
+248700074,Kem Dưỡng Naris Nature Làm Sáng Da Ban Ngày SPF20 PA+ 40g,5.0,7,0,tốt,
+248700075,Serum Naris Nature Dưỡng Sáng Da 30ml,4.636363636363637,13,0,tốt,
+248700076,Kem Dưỡng Naris Nature Làm Sáng Da Ban Đêm 50g,5.0,8,0,tốt,
+248700102,Sữa Rửa Mặt Naris Nature Se Khít Lỗ Chân Lông 100g,4.111111111111111,6,2,tốt,tệ
+248700105,Sữa Rửa Mặt Naris Nature Cho Da Mụn Chiết Xuất Mù Tạt 100g,5.0,7,0,tốt,
+249500001,Sữa Chống Nắng Sunplay Bảo Vệ Vượt Trội SPF81 PA++++ 30g,5.0,4,0,thích,
+249500002,Sữa Chống Nắng Sunplay Giải Nhiệt Da 30g,4.625,5,1,tốt,hạn_chế
+249500004,Sữa Chống Nắng Sunplay Dưỡng Da Sáng Đẹp 30g,4.777777777777778,14,0,tốt,
+249500007,Sữa Chống Nắng Sunplay Skin Aqua Dưỡng Da Sáng Mịn 55g,4.6521739130434785,22,3,tốt,không_tốt
+249500011,Sữa Chống Nắng Sunplay Bảo Vệ Vượt Trội SPF81 PA++++ 70g,5.0,2,0,tốt,
+249500013,Sữa Chống Nắng Sunplay Skin Aqua Dưỡng Da Sáng Mịn 25g,4.8,27,5,tốt,kém
+249500014,Sữa Chống Nắng Sunplay Skin Aqua Dưỡng Da Ngừa Mụn 25g,4.8,19,2,tốt,khó_chịu
+249500019,Tinh Chất Chống Nắng Sunplay Hiệu Chỉnh Sắc Da 50g (Tím),4.633333333333334,20,0,tốt,
+249500021,Sữa Chống Nắng Sunplay Hiệu Chỉnh Sắc Da 50g (Tím),4.705882352941177,13,4,tốt,không_tốt
+249500027,Tinh Chất Chống Nắng Sunplay Hiệu Chỉnh Sắc Da 50g (Xanh),4.255813953488372,34,6,tốt,không_thích
+249500028,Sữa Chống Nắng Sunplay Hiệu Chỉnh Sắc Da 50g (Xanh),4.666666666666667,21,1,tốt,tệ
+251900019,Mặt Nạ Rainbow L’affair Mật Ong Dưỡng Ẩm Da 25g,4.777777777777778,16,2,thích,không_thích
+251900024,"Mặt Nạ Rainbow L'Affair Cấp Ẩm, Ngừa Lão Hóa Da 25ml",5.0,5,0,tốt,
+253900002,"Kem Dưỡng Skin1004 Rau Má Dưỡng Ẩm, Phục Hồi Da 75g",4.777777777777778,7,1,tốt,khó_chịu
+253900003,Serum Skin1004 Rau Má Làm Dịu & Hỗ Trợ Phục Hồi Da 100ml,4.684210526315789,19,2,tốt,tệ
+253900004,Serum Skin1004 Rau Má Làm Dịu & Hỗ Trợ Phục Hồi Da 55ml,4.458333333333333,24,0,tốt,
+253900005,Nước Hoa Hồng Skin1004 Phục Hồi Và Tái Tạo Da 210ml,4.6,10,1,ổn,buồn
+253900006,Kem Chống Nắng Skin1004 Cho Da Nhạy Cảm SPF 50+ 50ml,4.545454545454546,33,11,tốt,khó_chịu
+253900007,Sữa Rửa Mặt Skin1004 Làm Sạch Sâu Cho Da Nhạy Cảm 125ml,4.583333333333333,11,1,tốt,không_thích
+253900009,"Mặt Nạ Skin1004 Làm Dịu, Ngừa Mụn Chiết Xuất Rau Má 25ml",4.666666666666667,4,0,tốt,
+253900010,Kem Dưỡng Skin1004 Làm Dịu Da Chiết Xuất Rau Má 75ml,3.909090909090909,6,1,tốt,kém
+256700001,"Bột Cám Gạo Milaganics Dưỡng Da Sáng Mịn, Mờ Thâm 100g",5.0,1,0,thích,
+256700002,Gel Nha Đam Milaganics Dưỡng Ẩm & Làm Mềm Da 300ml,5.0,7,0,thích,
+256700006,Bột Yến Mạch Milaganics Ngăn Ngừa Lão Hóa & Mụn 100g (Túi),4.5,1,0,thư_giãn,
+256700007,"Bột Trà Xanh Milaganics Kiểm Soát Nhờn, Ngăn Ngừa Mụn 100g",5.0,5,0,thích,
+256700011,Mascara Dưỡng Mi Milaganics Dầu Dừa Nguyên Chất 5ml,4.809523809523809,14,1,tốt,khó_chịu
+256700012,Gel Nha Đam Milaganics Dưỡng Ẩm & Làm Mềm Da 150ml,4.75,5,0,tốt,
+256700017,"Serum Dưỡng Dài Mi Milaganics Dầu Dừa, Argan & Olive 5ml",5.0,6,2,tốt,khó_chịu
+256700020,"Bột Diếp Cá Milaganics Giảm Mụn, Mờ Vết Thâm 100g",5.0,1,0,tốt,
+264500018,Xịt Khoáng DOLLANIA Cho Mọi Loại Da 150ml,4.0,1,0,tốt,
+293500006,Gel Rửa Mặt SVR Không Chứa Xà Phòng Cho Da Dầu 200ml,5.0,3,0,tốt,
+293500010,Gel Rửa Mặt SVR Dành Cho Da Nhạy Cảm 200ml,5.0,2,0,tốt,
+293500043,Gel Rửa Mặt SVR Không Chứa Xà Phòng Cho Da Dầu 55ml,5.0,9,1,tốt,không_hợp
+293500050,"Serum SVR Làm Giảm Mụn, Mờ Nám, Làm Mềm Mịn Da 30ml",4.8,7,1,tốt,không_hợp
+304900016,Mặt Nạ Đen Sexylook Hoa Cúc Giảm Mụn Sáng Da 28ml,4.5,2,0,ổn,
+308100018,Mặt Nạ Cocoon Bí Đao Giảm Dầu & Mụn 30ml,4.695652173913044,14,3,thích,thất_vọng
+308100023,Dầu Tẩy Trang Cocoon Chiết Xuất Hoa Hồng 140ml,4.888888888888889,16,1,tốt,không_hợp
+308500001,Sữa Rửa Mặt Naruko Dạng Bùn Tràm Trà 120ml,5.0,11,2,tốt,không_hợp
+308500004,Mặt Nạ Naruko Tràm Trà Kiểm Soát Dầu Và Giảm Mụn 26ml,4.333333333333333,8,1,ổn,không_thích
+308500009,"Mặt Nạ Naruko Ý Dĩ Nhân Đỏ Se Lỗ Chân Lông, Sáng Da 25ml",4.285714285714286,16,2,tốt,thất_vọng
+308500013,Mặt Nạ Naruko Hoa Hồng Nhung Cấp Nước Cho Da 25ml,3.3846153846153846,7,4,thư_giãn,tệ
+308500015,"Mặt Nạ Naruko Bạch Ngọc Lan Dưỡng Sáng, Săn Chắc Da 30ml",3.888888888888889,13,5,thư_giãn,kém
+308500018,Mặt Nạ Naruko Hoa Thủy Tiên Hỗ Trợ Phục Hồi Da 25ml,4.333333333333333,10,0,tốt,
+308500037,Hộp 8 Miếng Mặt Nạ Naruko Tràm Trà Kiềm Dầu Giảm Mụn 26ml/M,4.666666666666667,10,1,dễ_dàng,kém
+308900002,Tinh Chất Chống Nắng Tenamyd Dạng Nước SPF50/PA+++ 70ml,4.764705882352941,19,1,tốt,tệ
+309300012,Kem Chống Nắng Cathy Doll Sáng Da SPF50/PA+++ 138ml,5.0,0,0,,
+310100003,"Kem Dưỡng Obagi Retinol 1.0% Trẻ Hóa Da, Ngừa Mụn 28g",5.0,0,1,,không_hợp
+318900002,Serum Klairs Vitamin C Cho Da Nhạy Cảm 35ml,4.390625,59,8,tốt,không_hợp
+318900005,Kem Dưỡng Ẩm Klairs Làm Dịu & Phục Hồi Da Ban Đêm 60g,4.7368421052631575,37,2,tốt,thất_vọng
+318900009,"Serum Klairs Cấp Ẩm Cho Da Khô, Nhạy Cảm 80ml",4.523809523809524,19,2,tốt,hạn_chế
+318900010,"Mặt Nạ Klairs Dưỡng Ẩm, Làm Dịu Da 25ml",5.0,1,0,thích,
+318900011,Nước Hoa Hồng Klairs Dành Cho Da Nhạy Cảm 180ml,4.769230769230769,32,4,tốt,không_hợp
+318900012,Nước Hoa Hồng Klairs Không Mùi Cho Da Nhạy Cảm 180ml,4.531914893617022,51,4,tốt,không_thích
+318900019,Kem Dưỡng Ẩm Klairs Làm Dịu & Phục Hồi Da Ban Đêm 30ml,4.738095238095238,51,3,tốt,khó_chịu
+327500002,"Gel Dưỡng Megaduo Giảm Mụn, Mờ Thâm 15g",4.7272727272727275,25,7,hiệu_quả,chậm
+331300002,Sữa Rửa Mặt Curél Dạng Bọt Cấp Ẩm Chuyên Sâu 150ml,5.0,7,0,thích,
+331300006,Sữa Dưỡng Da Curél Cấp Ẩm Chuyên Sâu 120ml,5.0,4,0,tốt,
+331300017,Sữa Rửa Mặt Curél Dạng Bọt Dành Cho Da Dầu 150ml,5.0,0,0,,
+331300019,Gel Dưỡng Da Curél Dành Cho Da Dầu 120ml,5.0,3,1,tốt,không_hợp
+331300023,Sữa Chống Nắng Curél Mặt & Toàn Thân Cho Da Khô Nhạy Cảm 60ml,3.96,21,13,tốt,tệ
+335100004,Kem Rửa Mặt Oxy Có Hạt Làm Sạch Sâu Giảm Nhờn 100g,5.0,9,0,tốt,
+335100011,"Kem Rửa Mặt Oxy Sạch Khuẩn Mụn, Kiểm Soát Nhờn 100g",5.0,1,0,hiệu_quả,
+343100024,Kem Chống Nắng B.O.M Nâng Tông Dịu Nhẹ 50ml,4.9,16,2,tốt,khó_chịu
+343100028,Nước Cân Bằng B.O.M Từ 8 Loại Trà Làm Dịu & Cấp Ẩm Da 150ml,5.0,0,0,,
+343100029,Nước Tẩy Trang B.O.M Từ 8 Loại Trà Làm Sạch Da 500ml,4.8076923076923075,21,3,tốt,không_hợp
+343100041,Sữa Rửa Mặt B.O.M Từ 8 Loại Trà Làm Sạch Sâu Da 150ml,4.5,8,1,tốt,thất_bại
+343700002,Gel Dưỡng I'm from Dưỡng Ẩm Và Kiểm Soát Dầu 75g,4.25,36,5,tốt,không_hợp
+345800001,Nước Hoa Hồng Some By Mi AHA-BHA-PHA Cho Da Mụn 150ml,4.840909090909091,38,2,tốt,chậm
+345800002,Serum Some By Mi AHA-BHA-PHA Cho Da Mụn 50ml,4.588235294117647,12,1,tốt,không_phù_hợp
+345800003,Kem Dưỡng Some By Mi Hỗ Trợ Giảm Mụn 60g,4.444444444444445,13,5,tốt,không_ổn
+345800007,Mặt Nạ Some By Mi Hyaluronic Acid Dưỡng Ẩm Da 25g,5.0,2,0,thích,
+345800008,Mặt Nạ Some By Mi Ngọc Trai Dưỡng Sáng Da 25g,5.0,5,0,tốt,
+345800009,"Mặt Nạ Some By Mi Tràm Trà Làm Dịu Da, Giảm Mụn 25g",5.0,1,0,thích,
+345800013,Kem Chống Nắng Some By Mi Nâng Tông Da 50ml,3.909090909090909,11,5,tốt,tệ
+345800015,"Serum Some By Mi Ốc Sên Phục Hồi Da, Mờ Thâm Sẹo 50ml",4.59375,37,6,tốt,không_hợp
+345800027,Miếng Dán Mụn Some By Mi 18 Miếng,4.6,8,0,hiệu_quả,
+345800028,"Kem Dưỡng Some By Mi Ốc Sên Phục Hồi Da, Mờ Thâm Sẹo 60g",4.5,4,0,tốt,
+350900001,Xịt Khoáng Dr Her Paris Làm Dịu Da 150ml,5.0,0,0,,
+351700026,Mặt Nạ Tẩy Tế Bào Chết Huxley Cho Da Mịn Màng Sạch Sâu 30g,4.777777777777778,10,2,tốt,chán
+355500010,Mặt Nạ Avander Đất Sét Bùn Non Se Khít Lỗ Chân Lông 110g,3.857142857142857,9,1,thích,không_thích
+355500011,Mặt Nạ Avander Đất Sét Trắng Se Khít Lỗ Chân Lông 110g,4.666666666666667,3,0,tốt,
+357100004,Lotion Hatomugi Dưỡng Ẩm Và Làm Sáng Da 500ml,4.625,7,0,tốt,
+357100008,Kem Dưỡng Hatomugi Cấp Ẩm & Làm Sáng Da 300g,4.416666666666667,9,1,ổn,không_hợp
+357100011,"Sữa Rửa Mặt Hatomugi Ý Dĩ Hỗ Trợ Dưỡng Ẩm, Sáng Da 170g",3.5,3,2,chất_lượng,kém
+358300001,"Kem Dưỡng Angel's Liquid Làm Sáng Da, Mờ Thâm 50ml",4.5,54,8,tốt,không_thích
+358300002,"Serum Angel's Liquid Dưỡng Sáng Da, Mờ Thâm 30ml",4.68,31,4,thích,không_thích
+358300003,"Nước Dưỡng Angel's Liquid Sáng Da, Mờ Thâm Nám 150ml",5.0,9,1,tốt,khó_chịu
+365000011,Mặt Nạ Foodaholic Chiết Xuất Ngọc Trai Dưỡng Ẩm Da 23g,3.0,1,0,chất_lượng,
+365000012,"Mặt Nạ Foodaholic Chiết Xuất Tổ Yến Cấp Nước, Nâng Cơ 23g",3.6,4,3,thích,kém
+365000013,"Mặt Nạ Foodaholic Vitamin A Sáng Da, Ngừa Lão Hóa 23g",5.0,2,0,thích,
+365000014,"Mặt Nạ Foodaholic Vitamin B Dưỡng Ẩm, Se Lỗ Chân Lông 23g",4.5,0,0,,
+365000015,Mặt Nạ Foodaholic Chiết Xuất Vitamin C Dưỡng Sáng Da 23g,3.3333333333333335,2,1,chất_lượng,kém
+365000016,"Mặt Nạ Foodaholic Vitamin D Phục Hồi, Tái Tạo Da 23g",5.0,2,0,ưng_ý,
+365000017,"Mặt Nạ Foodaholic Vitamin E Cấp Ẩm, Phục Hồi Da 23g",3.6,4,2,hài_lòng,không_hài_lòng
+365000018,"Mặt Nạ Foodaholic Vitamin K Se Lỗ Chân Lông, Làm Dịu Da 23g",4.5,4,0,hiệu_quả,
+365000019,Mặt Nạ Foodaholic Chiết Xuất Collagen Làm Săn Chắc Da 23g,4.5,1,0,thích,
+365000020,Mặt Nạ Foodaholic Bột Kim Cương Dưỡng Sáng Da 23g,5.0,1,0,tốt,
+371600006,"Serum Balance Active Formula Làm Sáng Da, Mờ Thâm 30ml",4.725,36,4,hiệu_quả,chậm
+371600007,Serum Balance Active Formula Cấp Nước Dưỡng Ẩm Da 30ml,4.7272727272727275,21,0,tốt,
+377400001,"Nước Tẩy Trang Derladie Ngừa Mụn, Hỗ Trợ Làm Sạch Da 500ml",4.530612244897959,57,6,thích,không_thích
+377400002,"Toner Derladie Cây Phỉ Ngừa Mụn, Làm Sạch Da 500ml",4.8,17,3,tốt,không_hợp
+386000008,"Mặt Nạ JMsolution Dưỡng Ẩm, Sáng Da Từ Ngọc Trai 30ml",5.0,0,0,,
+386000014,"Mặt Nạ Mắt JMsolution Mật Ong Mờ Quầng Thâm, Nếp Nhăn 90g",4.666666666666667,2,0,thích,
+386000015,"Mặt Nạ Mắt JMsolution Ngọc Trai Mờ Quầng Thâm, Nếp Nhăn 90g",4.857142857142857,8,0,thích,
+386000042,Mặt Nạ JMsolution Tổ Yến Dưỡng Ẩm Chuyên Sâu 30ml,5.0,1,0,thích,
+386000044,Mặt Nạ JMsolution Trứng Cá Tầm Phục Hồi Tái Tạo Da 30ml,5.0,3,0,thích,
+399200001,Tẩy Tế Bào Chết Môi BareSoul 20g,4.777777777777778,4,0,thích,
+412800002,Máy Rửa Mặt Emmié Hỗ Trợ Sạch Sâu Màu Sky Blue,5.0,1,0,ổn,
+412800003,Máy Rửa Mặt Emmié Hỗ Trợ Sạch Sâu Màu Purple Don’t Lie,5.0,1,0,cẩn_thận,
+413400001,Bông Tẩy Trang Inci Cotton Pads 150 Miếng,3.5,2,0,tốt,
+418800002,Serum 9Wishes Dưỡng Ẩm & Làm Căng Bóng Da 25ml,4.888888888888889,20,0,tốt,
+418800004,"Serum 9Wishes Dưỡng Sáng Da, Giảm Thâm 25ml",4.5,8,2,tốt,không_hợp
+419200006,Sữa Dưỡng d program Dành Cho Da Mụn 100ml,5.0,2,1,tốt,không_hợp
+422200002,Mặt Nạ Sur.Medic+ Tinh Chất Glutathione Làm Sáng Da 30g,4.5,8,2,tốt,tệ
+422200152,Serum L'Oreal Hyaluronic Acid Cấp Ẩm Sáng Da 30ml,5.0,5,1,thích,không_thích
+422200182,"Mặt Nạ Derladie Cây Phỉ Giảm Mụn, Dưỡng Sáng Da 30ml",5.0,11,0,tốt,
+422200236,Kem Chống Nắng MartiDerm Phổ Rộng Bảo Vệ Toàn Diện 40ml,4.8108108108108105,19,2,ổn,không_thích
+422200262,Gel Tẩy Tế Bào Chết Arrahan Hương Chanh 180ml,5.0,2,0,tốt,
+422200305,[Mini] Kem Dưỡng Neutrogena Cấp Nước Cho Da Dầu 15g,4.0,3,2,thích,tệ
+422200306,Kem Dưỡng Ẩm Neutrogena Cấp Nước Cho Da Dầu 50g,4.0,16,5,tốt,không_phù_hợp
+422200342,"Kem Dưỡng Avène Hỗ Trợ Làm Lành Da, Ngừa Nhiễm Khuẩn 15ml",5.0,13,0,tốt,
+422200377,Kem Chống Nắng Bioderma Giảm Bóng Nhờn 40ml (Màu Light),5.0,0,0,,
+422200632,Gel Rửa Mặt SVR Không Chứa Xà Phòng Cho Da Dầu 400ml,4.428571428571429,4,1,phù_hợp,không_phù_hợp
+422201090,"Kem Dưỡng Mắt Sur.Medic+ Giảm Nếp Nhăn, Ngăn Lão Hóa 35ml",4.944444444444445,15,1,tốt,tệ
+422201092,Mặt Nạ Sur.Medic+ Cấp Nước & Cấp Ẩm Chuyên Sâu 30g,5.0,1,0,rất_hợp,
+422201119,"Nước Tẩy Trang Caryophy Cho Da Dầu Mụn, Nhạy Cảm 300ml",4.571428571428571,4,0,tốt,
+422201120,"Nước Tẩy Trang Caryophy Cho Da Dầu Mụn, Nhạy Cảm 500ml",4.5,3,0,thích,
+422201123,Combo Sunplay Sữa Chống Nắng Ngăn Sạm & Hiệu Chỉnh Sắc Da,4.0,0,0,,
+422201354,Dầu Tẩy Trang Freeplus Tinh Chất Serum Dịu Nhẹ 100ml,5.0,1,0,thích,
+422201366,Sữa Dưỡng Ẩm Freeplus Dịu Nhẹ #1 Tươi Mát Da 100ml,5.0,2,0,thích,
+422201374,Tẩy Da Chết Môi Cocoon Từ Cà Phê Đắk Lắk 5g,4.6923076923076925,11,2,tốt,chán
+422201448,"Serum Bio-essence Dưỡng Ẩm, Phục Hồi Da 30ml",5.0,11,0,tốt,
+422201504,Nước Tẩy Trang Bí Đao Cocoon Làm Sạch & Giảm Dầu 500ml,4.666666666666667,12,2,thích,khó_chịu
+422201700,Mặt Nạ Some By Mi Đất Sét Trà Xanh Thu Nhỏ Lỗ Chân Lông 100g,4.1,9,2,ổn,khó_chịu
+422201725,Kem Dưỡng B.O.M Chiết Xuất 8 Loại Trà Cấp Ẩm Da 50g,5.0,10,1,thích,thất_vọng
+422201822,Bông Tẩy Trang LilyBell Lilian Puff Cotton 222 Miếng,5.0,5,0,tốt,
+422202025,Tẩy Da Chết Mặt Cocoon Cà Phê Đắk Lắk 150ml,5.0,0,0,,
+422202045,Combo Tẩy Da Chết Mặt Cocoon Cà Phê Đắk Lắk 2x150ml,4.6,2,0,tốt,
+422202151,Nước Tẩy Trang Nivea Ngăn Ngừa Mụn 400ml,5.0,1,0,tốt,
+422202153,Nước Tẩy Trang Nivea Dưỡng Sáng Da 400ml,4.75,4,0,ổn,
+422202168,Combo Hada Labo Kem Rửa Mặt & Lotion Dưỡng Ẩm Da Thường,5.0,2,0,tốt,
+422202216,Máy Rửa Mặt Emmié Hỗ Trợ Sạch Sâu Màu So Sweet (Limited),5.0,2,0,nhanh,
+422202253,Mặt Nạ Naruko Ý Dĩ Nhân Đỏ Dưỡng Sáng Da 25ml (Mới),4.0,14,3,tốt,khó_chịu
+422202362,"Sữa Rửa Mặt Hatomugi Tẩy Trang, Hỗ Trợ Sáng Da 130g",4.166666666666667,0,0,,
+422202421,Nước Sữa Tẩy Trang Senka 2 Lớp Sạch Sâu & Dịu Mát 230ml,5.0,4,2,thích,không_hợp
+422202569,Sữa Rửa Mặt Eucerin Dịu Nhẹ Cho Da Nhạy Cảm 400ml,4.375,11,3,tốt,khó_chịu
+422202579,"Kem Dưỡng Angel's Liquid Dưỡng Sáng Da, Mờ Thâm Nám 50ml",4.357142857142857,20,0,tốt,
+422202580,"Ampoule Angel's Liquid Dưỡng Sáng Da, Mờ Thâm Nám 30ml",4.615384615384615,30,4,tốt,khó_chịu
+422202629,"Serum Skin1004 Cấp Ẩm, Làm Dịu & Dưỡng Sáng Da 50ml",4.7,9,1,ổn,không_hợp
+422202632,"Kem Dưỡng Bio-essence Cấp Ẩm Sâu, Ngăn Bụi Bẩn 50g",4.9,11,0,tốt,
+422203143,Gel Chống Nắng Sunplay Dưỡng Da Khi Vận Động Mạnh 30g,3.6666666666666665,0,3,,tệ
+422203145,Tinh Chất Chống Nắng Sunplay Hiệu Chỉnh Sắc Da 50g (Hồng),4.107142857142857,24,3,tốt,khó_chịu
+422203146,Sữa Chống Nắng Sunplay Hiệu Chỉnh Sắc Da 50g (Hồng),4.7,9,3,tốt,chậm
+422203173,"Kem Dưỡng Vichy Sáng Da, Mờ Thâm Nám Ban Đêm 50ml",4.6,2,1,ổn,chậm
+422203182,"Mặt Nạ BNBG Tràm Trà Giúp Thải Độc Da, Giảm Mụn 30ml",4.666666666666667,10,1,tốt,không_tốt
+422203282,Serum Paula's Choice Se Khít Lỗ Chân Lông Tối Ưu 20ml,4.25,1,0,hiệu_quả,
+422203300,Bông Tẩy Trang Mihoo Kokimi Bông Tròn Túi 155 Miếng,4.583333333333333,10,1,tốt,không_thích
+422203301,Bông Tẩy Trang Mihoo Kokimi Bông Vuông Túi 240 Miếng,5.0,10,1,thích,không_thích
+422203302,Bông Tẩy Trang Mihoo Kokimi Bông Tròn Túi 210 miếng,4.777777777777778,6,0,thích,
+422203321,Gel Rửa Mặt Cocoon Chiết Xuất Từ Hoa Hồng 140ml,5.0,2,0,hài_lòng,
+422203371,Tinh Chất Chống Nắng Bioré UV Sáng Rạng Rỡ 70g,4.5,4,0,tốt,
+422203449,Chấm Mụn Neogen Dermalogy Hỗ Trợ Giảm Sưng Viêm 15ml,4.5,7,0,tốt,
+422203506,"Sữa Rửa Mặt Hatomugi Tạo Bọt Hỗ Trợ Dưỡng Ẩm, Sáng Da 160ml",4.125,6,0,tốt,
+422203510,"Sữa Rửa Mặt Hatomugi Ý Dĩ Hỗ Trợ Ngừa Mụn, Sáng Da 130g",4.5,3,1,tốt,không_tốt
+422203542,Nước Cân Bằng Cocoon Chiết Xuất Từ Nghệ Hưng Yên 140ml,4.0,4,0,thích,
+422203609,Sữa Dưỡng Ẩm Embryolisse Siêu Phục Hồi Da 30ml,4.833333333333333,13,3,tốt,không_thích
+422203617,Sữa Dưỡng Ẩm Embryolisse Siêu Phục Hồi Da 75ml,4.8,10,0,tốt,
+422203645,Combo Simple Chăm Sóc Cho Da Sạch Khỏe Đàn Hồi 3 Món,5.0,5,0,cẩn_thận,
+422203671,Mặt Nạ Nghệ Hưng Yên Cocoon Giúp Da Rạng Rỡ Mịn Màng 30ml,5.0,4,0,tốt,
+422203776,Combo 4 Bông Tẩy Trang Ipek 150 Miếng,2.857142857142857,4,0,tốt,
+422203807,Combo 2 Bông Tẩy Trang Ipek 150 Miếng,3.4,11,4,thích,không_chắc_chắn
+422203809,Combo 3 Bông Tẩy Trang Ipek 150 Miếng,3.4285714285714284,17,5,tốt,tệ
+422203901,Bông Tẩy Trang Ceiba 100% Chất Liệu Cotton 140 Miếng,4.5,4,0,tốt,
+422203976,Serum Vichy 89 Khoáng Chất Phục Hồi Chuyên Sâu 75ml,4.75,6,0,tốt,
+422203979,"Kem Dưỡng Ẩm Klairs Cho Da Khô, Nhạy Cảm 80ml",4.7,10,0,tốt,
+422204027,Kem Chống Nắng L'Oreal Mịn Nhẹ Nâng Tông Giảm Thâm 50ml,3.5,3,1,tốt,khó_chịu
+422204028,Kem Chống Nắng L'Oreal Mịn Nhẹ Kiềm Dầu Thoáng Mịn Da 50ml,4.25,4,4,tốt,chán
+422204167,"Kem Dưỡng Avène Làm Lành Da Nội Sinh, Ngừa Nhiễm Khuẩn 40ml",4.625,7,1,ổn,không_hợp
+422204231,Serum Balance Active Formula Ngừa Mụn Mờ Thâm 30ml,4.542857142857143,27,5,tốt,kém
+422204259,Nước Tẩy Trang L'Oreal Làm Sạch Sâu Cho Da Dầu 400ml,4.111111111111111,19,4,tốt,thất_vọng
+422204281,Gel Rửa Mặt Bioderma Dành Cho Da Dầu & Hỗn Hợp 200ml (Tuýp),5.0,4,0,thích,
+422204388,"Kem Chống Nắng Caryophy Nâng Tone, Ngừa Mụn 50ml",4.538461538461538,7,4,tốt,tệ
+422204576,Nước Tẩy Trang Chacott for Professionals 500ml,3.909090909090909,8,4,tốt,khó_chịu
+422204657,Nước Tẩy Trang Cocoon Bí Đao Làm Sạch & Giảm Dầu 140ml,4.555555555555555,4,1,thích,tệ
+422204659,Mặt Nạ Nghệ Hưng Yên Cocoon Giúp Da Rạng Rỡ Mịn Màng 100ml,5.0,5,0,tốt,
+422204775,Nước Dưỡng Da Chinoshio Dokudami Chiết Xuất Lá Diếp Cá 500ml,4.75,11,0,tốt,
+422204777,Kem Chống Nắng Hatomugi Dưỡng Ẩm & Làm Sáng Da 80g,4.714285714285714,6,1,tốt,tệ
+422204787,Mặt Nạ Mediheal Hỗ Trợ Dưỡng Da Sáng Mịn & Đều Màu 20ml,5.0,3,0,ổn,
+422204795,"Gel Rửa Mặt Cosrx Tràm Trà, 0.5% BHA Có Độ pH Thấp 150ml",4.625,98,5,tốt,không_hợp
+422204884,Combo 2 Nước Tẩy Trang Bí Đao Cocoon Làm Sạch & Giảm Dầu 500ml,5.0,10,0,thích,
+422204902,Serum Garnier Tăng Cường Sáng Da Mờ Thâm 30ml,4.428571428571429,4,1,tốt,khó_chịu
+422204904,Nước Tẩy Trang Garnier Làm Sạch Sâu Lớp Trang Điểm 400ml,4.857142857142857,4,0,tốt,
+422204906,Nước Tẩy Trang Garnier Vitamin C Làm Sáng Da 400ml,4.1,9,0,tốt,
+422204910,Nước Tẩy Trang Garnier Dành Cho Da Nhạy Cảm 400ml,4.75,7,0,tốt,
+422204914,Mặt Nạ Garnier Vitamin C & Salicylic Acid Giảm Mụn 23g,5.0,1,0,ổn,
+422204947,Combo 3 Bông Tẩy Trang Ceiba 100% Chất Liệu Cotton 140 Miếng,4.428571428571429,6,2,chất_lượng,tệ
+422205053,"Tinh Chất Bí Đao Cocoon Làm Giảm Mụn, Mờ Thâm 70ml",4.0,2,3,ổn,không_hợp
+422205122,Serum B.O.M Từ 8 Loại Trà Làm Dịu & Cấp Ẩm Da 38ml,5.0,14,2,tốt,chán
+422205151,Kem Dưỡng Eucerin Sáng Da Ban Ngày 50ml,5.0,1,0,cải_thiện,
+422205152,Kem Dưỡng Eucerin Làm Sáng Da Ban Đêm 50ml,5.0,1,0,ổn,
+422205160,Hộp 10 Miếng Mặt Nạ Naruko Bạch Ngọc Lan Săn Chắc Da 30ml/M,4.384615384615385,14,1,dễ_dàng,kém
+422205162,Hộp 10 Miếng Mặt Nạ Naruko Hoa Hồng Nhung Cấp Nước 25ml/M,4.0,14,5,thích,kém
+422205163,Hộp 10 Miếng Mặt Nạ Naruko Ý Dĩ Nhân Đỏ Se Lỗ Chân Lông,4.5,8,0,tốt,
+422205164,Hộp 10 Miếng Mặt Nạ Naruko Ý Dĩ Nhân Đỏ Sáng Da Mới 25ml/M,4.7272727272727275,6,2,tốt,thất_vọng
+422205181,Combo 2 Bông Tẩy Trang Ceiba 100% Chất Liệu Cotton 140 Miếng,5.0,0,0,,
+422205345,"Serum Care:Nel Làm Sáng Da, Giảm Mụn Thâm 30ml",5.0,5,1,tốt,chậm
+422205346,Mặt Nạ Ngủ Môi Care:Nel Chiết Xuất Quả Lựu 5g,5.0,1,2,thích,chán
+422205375,"Gel Chấm Mụn Oxy Hỗ Trợ Sạch Mụn, Mờ Thâm 10g",5.0,1,0,tốt,
+422205629,"Mặt Nạ Dưỡng Da Some By Mi Cica Giảm Kích Ứng, Dịu Da 20g",5.0,0,0,,
+422205635,Mặt Nạ Dưỡng Da Some By Mi Tràm Trà Làm Dịu Da Mụn 20g,5.0,0,0,,
+422205637,Mặt Nạ Dưỡng Da Some By Mi AHA-BHA-PHA Tẩy Tế Bào Chết 20g,4.0,1,0,tốt,
+422205673,Kem Dưỡng Cocoon Dạng Thạch Bí Đao Giảm Dầu & Mụn 30ml,4.5,7,2,tốt,không_hợp
+422205804,Mặt Nạ Nature Republic Chiết Xuất Cam Dưỡng Sáng Da 23ml,1.0,0,1,,tệ
+422205805,Mặt Nạ Nature Republic Chiết Xuất Lô Hội Làm Dịu Da 23ml,5.0,0,0,,
+422205806,Mặt Nạ Nature Republic Chiết Xuất Hoa Hồng Cấp Ẩm Da 23ml,5.0,2,0,thích,
+422205807,Mặt Nạ Nature Republic Chiết Xuất Tre Cấp Nước 23ml,5.0,3,1,thích,khó_chịu
+422205808,Mặt Nạ Nature Republic Chiết Xuất Hoa Cúc Làm Dịu Da 23ml,5.0,0,0,,
+422205809,Mặt Nạ Nature Republic Chiết Xuất Cà Chua Sáng Da 23ml,5.0,0,0,,
+422205810,Mặt Nạ Nature Republic Chiết Xuất Tràm Trà Giảm Mụn 23ml,5.0,2,0,tốt,
+422205819,Nước Tẩy Trang Nature Republic Từ Khoáng Chất 500ml,4.833333333333333,5,0,tốt,
+422205820,Nước Tẩy Trang Nature Republic Chiết Xuất AHA 500ml,4.75,3,0,tốt,
+422205884,Kem Dưỡng Angel's Liquid Làm Mờ Nám Chuyên Sâu 50ml,5.0,0,0,,
+422205888,Xịt Khoáng Cocoon Nghệ Hưng Yên Giúp Sáng Da 130ml,5.0,3,0,thích,
+422205932,[Mini] Gel Rửa Mặt Bioderma Dành Cho Da Dầu & Hỗn Hợp 100ml,1.0,0,0,,
+422206035,Kem Dưỡng Olay Ban Ngày Sáng Da Chống Tia UV SPF15 PA++ 50g,5.0,5,0,tốt,
+422206042,Sữa Rửa Mặt St.Ives Tẩy Tế Bào Chết Bơ & Mật Ong 170g,4.166666666666667,4,0,tốt,
+422206043,Sữa Rửa Mặt St.Ives Tẩy Tế Bào Chết Hoa Hồng & Lô Hội 170g,4.888888888888889,6,0,tốt,
+422206100,Mặt Nạ Foodaholic Arbutin Dưỡng Sáng & Làm Đều Màu Da 23ml,5.0,3,0,tốt,
+422206101,Mặt Nạ Foodaholic Hyaluronic Acid Cấp Ẩm Đa Tầng 23ml,5.0,8,0,tốt,
+422206102,Mặt Nạ Foodaholic Peptide Hỗ Trợ Trẻ Hoá & Mờ Nếp Nhăn 23ml,5.0,0,0,,
+422206103,Mặt Nạ Foodaholic Retinol Giảm Mụn & Tái Tạo Da 23ml,5.0,1,0,tốt,
+422206149,Combo 4 Bông Tẩy Trang Ceiba 100% Chất Liệu Cotton 140 Miếng,4.0,2,0,tốt,
+422206248,"Gel Rửa Mặt Simple Thanh Khiết, Giảm Bóng Nhờn 150ml",4.363636363636363,12,1,tốt,tệ
+422206421,Kem Chống Nắng Hatomugi Nâng Tông & Dưỡng Ẩm Da 70g,3.5,2,0,chất_lượng,
+422206512,"Serum Teana Dưỡng Sáng Da, Mờ Thâm Nám 2ml x 10 Ống",5.0,1,0,thích,
+422206513,"Serum Teana Giảm & Ngừa Mụn Ẩn, Mụn Viêm 2ml x 10 Ống",4.0,1,1,ổn,tệ
+422206537,Gel Rửa Mặt Eucerin Cho Da Nhờn Mụn 75ml,4.903225806451613,25,1,ổn,không_thích
+422206541,Sữa Rửa Mặt Eucerin Tạo Bọt Làm Sáng Da 50g,5.0,2,0,thích,
+422206583,Nước Tẩy Trang Bioré Hoàn Hảo Sạch Nhờn 400ml,5.0,0,0,,
+422206644,Kem Dưỡng L'Oreal Paris Sáng Mịn Mờ Thâm Nám Ban Ngày 50ml,3.5,2,0,tốt,
+422206645,Kem Dưỡng L'Oreal Paris Sáng Mịn Mờ Thâm Nám Ban Đêm 50ml,4.714285714285714,12,0,tốt,
+422206648,Nước Tẩy Trang L'Oreal Căng Mịn Da 400ml,4.514285714285714,20,5,tốt,chán
+422206798,"Combo 3 Mặt Nạ Caryophy Giảm Mụn, Thâm & Dưỡng Ẩm Da 22g",5.0,1,0,tốt,
+422206806,Tẩy Da Chết Môi Cocoon Từ Cà Phê Đắk Lắk (Không Hộp) 5g,3.0,0,0,,
+422206823,Mặt Nạ Banobagi Bổ Sung Vitamin C Làm Sáng Da 30ml (Bạc),5.0,0,0,,
+422206972,"Mặt Nạ Sinh Học Emmié Phục Hồi, Dịu Da 23g",5.0,2,0,thích,
+422207020,Sữa Rửa Mặt The Lab Tạo Bọt Sạch Sâu & Dưỡng Ẩm Da 120ml,5.0,1,0,thích,
+422207023,"Dung Dịch Hada Labo Dưỡng Ẩm Tối Ưu Da Thường, Khô 40ml",5.0,2,0,ổn,
+422207148,Mặt Nạ Banobagi Dưỡng Sáng Và Chăm Sóc Da Mụn 30g (Hồng),5.0,1,0,tốt,
+422207150,"Mặt Nạ Banobagi Dưỡng Sáng, Làm Săn Chắc Da 30g (Tím)",3.0,1,3,rất_hợp,không_hợp
+422207161,Bộ Sản Phẩm Hada Labo Dưỡng Sáng Da 3 Món,5.0,0,0,,
+422207283,Kem Chống Nắng Eucerin Kiềm Dầu (Có Màu) 50ml,4.541666666666667,22,6,tốt,chán
+422207323,Sữa Chống Nắng La Roche-Posay Bảo Vệ Khỏi Tia UVA Dài 50ml,4.5,2,2,chất_lượng,không_hợp
+422207400,Sữa Rửa Mặt Hazeline Ngừa Mụn Dịu Nhẹ Matcha Tràm Trà 100g,5.0,0,0,,
+422207401,Sữa Rửa Mặt Hazeline Giảm Mụn Chiết Xuất Nghệ Hoa Cúc 100g,5.0,0,2,,kém
+422207413,Tinh Chất Chống Nắng Sunplay Hiệu Chỉnh Sắc Da 50g (Cam),4.447368421052632,40,4,tốt,khó_chịu
+422207414,Sữa Chống Nắng Sunplay Hiệu Chỉnh Sắc Da 50g (Cam),4.7368421052631575,19,1,tốt,khó_chịu
+422207417,Miếng Dán Mụn Acnes Giúp Giảm Mụn Sưng Viêm 48 Miếng,4.625,7,6,tốt,chán
+422207423,Combo 2 Sữa Rửa Mặt Cetaphil Dịu Nhẹ Không Xà Phòng 59ml,3.0,1,1,chất_lượng,chậm
+422207562,Combo 2 Nước Tẩy Trang Cocoon Bí Đao Làm Sạch & Giảm Dầu 140ml,4.0,4,0,tốt,
+422207629,Kem Giảm Mụn Acnes Chuyên Sâu 10g,5.0,4,0,tốt,
+422207655,Serum B.O.M Ngăn Ngừa Mụn Đỏ 30ml,5.0,4,0,tốt,
+422207731,Bột Thảo Dược Milaganics Dưỡng Sáng Da 100g,5.0,0,0,,
+422207736,"Mặt Nạ Milaganics Tràm Trà Ngừa Mụn, Se Lỗ Chân Lông 60g",4.846153846153846,14,0,tốt,
+422207787,"Combo Mặt Nạ Banobagi Bổ Sung Collagen, Mờ Nám 30gx10",5.0,3,0,tốt,
+422207791,"Mặt Nạ Banobagi Dưỡng Sáng, Nâng Tông Da 30gx10 Miếng",5.0,2,0,tuyệt_vời,
+422207794,"Mặt Nạ Banobagi Dưỡng Sáng, Săn Chắc Da 30gx10 Miếng",5.0,1,0,tốt,
+422207799,Sữa Rửa Mặt Milaganics Tràm Trà Nano Nghệ Ngừa Mụn 135ml,4.75,5,0,thích,
+422207807,Kem Dưỡng Ẩm Milaganics Tinh Dầu Tràm Trà Cho Da Mụn 50g,4.7,10,2,tốt,không_đáng
+422207808,"Dầu Olive Milaganics Nguyên Chất Dưỡng Da, Dưỡng Tóc 250ml",5.0,1,0,thư_giãn,
+422207810,"Toner Milaganics Hoa Cúc & AHA Ngừa Mụn, Giảm Dầu 250ml",4.0,6,0,tốt,
+422207812,Combo Cocoon Big Size Tẩy Da Chết Toàn Thân 600ml & Mặt Từ Cà Phê Đắk Lắk 150ml,4.852941176470588,32,0,ổn,
+422207815,"Bột Đậu Đỏ Milaganics Ngừa Mụn, Dưỡng Sáng Da 100g (Hũ)",4.75,3,1,tốt,khó_chịu
+422207826,Combo Kem Dưỡng Neutrogena Cấp Nước Cho Da Dầu 50g+15g,5.0,6,0,tốt,
+422207844,"Serum oh!oh! Dưỡng Sáng Da, Giảm Thâm Nám 30ml",5.0,2,0,tốt,
+422207865,Sữa Rửa Mặt Cetaphil Dịu Lành Cho Da Nhạy Cảm 125ml (Mới),4.25,3,2,tốt,thất_vọng
+422207866,Sữa Rửa Mặt Cetaphil Dịu Lành Cho Da Nhạy Cảm 250ml (Mới),4.0,0,1,,khó_chịu
+422208157,Kem Chống Nắng Cell Fusion C Nâng Tông Da 50ml,4.0,2,1,cải_thiện,không_hợp
+422208181,"Gel Dưỡng Megaduo Plus Giảm Mụn, Mờ Thâm 15g",4.806451612903226,37,4,tốt,chậm
+422208183,Kem Chống Nắng Cell Fusion C Nâng Tông Da Tuýp 10ml,4.5,1,1,tốt,không_hợp
+422208238,Tinh Chất B.O.M Vàng 24K Làm Sáng Và Săn Chắc Da 30ml,5.0,11,0,tốt,
+422208242,Tinh Chất Cocoon Nghệ Hưng Yên x2.2 Sáng Da Chuyên Sâu 30ml,4.8,2,1,tốt,chậm
+422208327,Serum Caryophy Phục Hồi Và Tái Tạo Da 50ml (HSD: 06/2025),5.0,2,0,tốt,
+422208328,"Serum oh!oh! Dưỡng Sáng Da, Giảm Thâm Nám 10ml",5.0,3,0,hiệu_quả,
+422208345,Kem Chống Nắng Hatomugi Nâng Tông & Dưỡng Ẩm Da 70g (Xanh Bạc Hà),4.25,6,4,tốt,không_thích
+422208764,Dầu Tẩy Trang Curél Cấp Ẩm Chuyên Sâu 150ml,5.0,1,0,ghiền,
+422208781,"Gel Mờ Sẹo Scarz Làm Phẳng, Đều Màu Da Chuyên Sâu 9g",5.0,2,0,hiệu_quả,
+422208807,[Mini] Nước Tẩy Trang L'Oreal Làm Sạch Sâu Cho Da Dầu 95ml,4.695652173913044,11,5,chất_lượng,khó_chịu
+422208859,Sữa Rửa Mặt Bio-essence Dưỡng Sáng Da 100g,4.0,1,1,thích,không_thích
+422208910,Sữa Rửa Mặt Cetaphil Dịu Lành Cho Da Nhạy Cảm 1000ml (Mới),4.6,2,0,tốt,
+422208913,"Serum Garnier Giảm Mụn Mờ Thâm Cho Da Dầu, Mụn 30ml",4.764705882352941,20,2,tốt,không_đáng
+422208920,Kem Dưỡng Bioderma Cấp Ẩm Và Làm Dịu Cho Da Nhạy Cảm 40ml,5.0,2,0,tốt,
+422208972,Sữa Rửa Mặt CeraVe Sạch Sâu Cho Da Thường Đến Da Dầu 236ml,4.142857142857143,4,1,tốt,tệ
+422208973,Sữa Rửa Mặt CeraVe Sạch Sâu Cho Da Thường Đến Da Dầu 473ml,4.7272727272727275,5,1,tốt,không_hợp
+422208974,Sữa Rửa Mặt CeraVe Sạch Sâu Cho Da Thường Đến Da Dầu 88ml,4.5,8,1,tốt,không_hợp
+422208975,Sữa Rửa Mặt CeraVe Cho Da Thường Đến Khô 473ml,5.0,2,0,thích,
+422208976,Sữa Rửa Mặt CeraVe Cho Da Thường Đến Khô 88ml,4.916666666666667,8,0,thích,
+422208977,Sữa Rửa Mặt CeraVe Cho Da Thường Đến Khô 236ml,5.0,6,0,tốt,
+422208981,Kem Dưỡng CeraVe Cho Da Khô Đến Rất Khô 340g,4.5,6,1,tốt,không_phù_hợp
+422208983,Kem Dưỡng CeraVe Cho Da Khô Đến Rất Khô 50ml,5.0,2,0,thích,
+422209042,Gel Rửa Mặt Swiss Image Cho Da Hỗn Hợp Và Dầu Mụn 200ml,5.0,10,0,tốt,
+422209045,Nước Tẩy Trang Swiss Image 3 Trong 1 Sạch Sâu 400ml,5.0,3,0,thích,
+422209046,Nước Hoa Hồng Swiss Image Cho Da Hỗn Hợp Và Da Dầu 200ml,5.0,8,0,tốt,
+422209047,Kem Dưỡng Ẩm Swiss Image Chống Nắng Ban Ngày 50ml,4.166666666666667,2,2,tốt,chậm
+422209048,"Kem Dưỡng Ẩm Swiss Image Phục Hồi, Tái Tạo Da Ban Đêm 50ml",4.714285714285714,2,0,tốt,
+422209052,"Kem Dưỡng Swiss Image Sáng Da, Giảm Thâm Nám Ban Đêm 50ml",4.875,4,1,hiệu_quả,không_hợp
+422209053,"Serum Swiss Image Dưỡng Sáng Da, Giảm Xỉn Màu 30ml",5.0,4,0,thích,
+422209094,Tinh Chất The Lab Dưỡng Ẩm Chuyên Sâu Cho Da 30ml,5.0,13,1,tốt,thất_vọng
+422209198,[Mini] Sữa Rửa Mặt CeraVe Cho Da Thường Đến Khô 20ml,5.0,2,0,tốt,
+422209262,Combo Cocoon Tẩy Da Chết Cho Mặt & Toàn Thân Từ Cà Phê Đắk Lắk (200ml+150ml),4.769230769230769,1,0,hiệu_quả,
+422209296,Nước Tẩy Trang Hada Labo Sạch Sâu Dưỡng Sáng 240ml,4.0,1,0,chất_lượng,
+422209322,Sữa Rửa Mặt Cetaphil Dịu Lành Cho Da Nhạy Cảm 500ml (Mới),4.5,3,0,thích,
+422209420,Kem Chống Nắng Cocoon Bí Đao Quang Phổ Rộng 50ml,4.333333333333333,4,1,tốt,khó_chịu
+422209427,Mặt Nạ Mediheal Collagen Ngăn Ngừa Lão Hóa Da 24ml,4.0,0,0,,
+422209443,Mặt Nạ Ngủ Môi Mediheal 10ml,4.6,11,0,ổn,
+422209444,Tẩy Tế Bào Chết Môi Mediheal 10ml,3.9444444444444446,9,3,tốt,không_hợp
+422209605,"Combo 10 Mặt Nạ BNBG Tràm Trà Thải Độc Da, Giảm Mụn 30ml",5.0,3,0,thích,
+422209635,Combo 10 Mặt Nạ Foodaholic Hyaluronic Acid Cấp Ẩm Đa Tầng 23mlx10,4.5,3,0,tốt,
+422209636,Combo 10 Mặt Nạ Foodaholic Arbutin Dưỡng Sáng Da 23mlx10,5.0,2,0,tốt,
+422209663,Combo 2 Kem Dưỡng Ẩm Neutrogena Cấp Nước Cho Da Dầu 15g,4.636363636363637,12,1,tốt,khó_chịu
+422209671,Nước Tẩy Trang Simple Làm Sạch Trang Điểm Vượt Trội 400ml,4.0,0,0,,
+422209699,Kem Dưỡng Caryophy Cấp Ẩm Và Dưỡng Sáng Da 50ml,5.0,1,0,thích,
+422209704,Mặt Nạ Banobagi Dưỡng Sáng Cấp Nước (Xanh Dương Đậm) 30g,5.0,0,0,,
+422209705,"Mặt Nạ Banobagi Dưỡng Sáng, Se Lỗ Chân Lông (Nâu) 30g",5.0,1,0,tốt,
+422209718,"Combo Mặt Nạ Banobagi Dưỡng Sáng, Cấp Nước Cho Da 30gx10",4.0,5,1,tốt,không_tốt
+422209719,"Combo Mặt Nạ Banobagi Dưỡng Sáng, Se Lỗ Chân Lông 30gx10",4.0,2,0,xuất_sắc,
+422209720,"Combo Mặt Nạ Banobagi Dưỡng Sáng, Hỗ Trợ Nâng Cơ 30gx10",5.0,0,0,,
+422209722,"Combo Mặt Nạ Banobagi Kháng Viêm, Giảm Mụn 30gx10",3.0,0,1,,tệ
+422209724,Combo Mặt Nạ Banobagi Cấp Ẩm Da Căng Bóng 30gx10,5.0,0,0,,
+422209795,Combo 2 Mặt Nạ Nghệ Hưng Yên Cocoon Dưỡng Da Mịn Màng 30ml,4.75,3,0,ổn,
+422209841,"[Mini] Kem Dưỡng Obagi Retinol 1.0% Trẻ Hóa Da, Ngừa Mụn 5g",4.6,1,1,tốt,khó_chịu
+422210047,"Toner Milaganics Hoa Cúc & AHA Ngừa Mụn, Giảm Dầu 500ml",5.0,6,1,tốt,không_thích
+422210146,Kem Chống Nắng Cell Fusion C Nâng Tông Da 35ml,4.0,0,0,,
+422210280,Dưỡng Môi Đa Năng Pure Paw Paw Từ Đu Đủ Hương Dâu 25g,4.5,4,0,tốt,
+422210400,Kem Chống Nắng L'Oreal Paris X20 Thoáng Da Mỏng Nhẹ 50ml,4.125,3,2,tốt,tệ
+422210445,Sữa Rửa Mặt Senka Dưỡng Sáng Mờ Thâm 100g,4.0,0,0,,
+422210709,Gel Tẩy Tế Bào Chết Avène Dịu Nhẹ Cho Da Nhạy Cảm 75ml,5.0,1,0,hiệu_quả,
+422210711,Sữa Chống Nắng Avène Quang Phổ Rộng Cho Da Dầu Mụn 50ml,5.0,0,0,,
+422210784,Combo 8 Gel Rửa Mặt La Roche-Posay Cho Da Dầu Nhạy Cảm 50ml,4.357142857142857,7,3,tốt,không_hợp
+422210948,Nước Dưỡng Eucerin Làm Sáng Và Cấp Ẩm Cho Da 100ml,5.0,1,0,hiệu_quả,
+422210954,Dầu Tẩy Trang Kosé Softymo Làm Sạch Nhanh 230ml,5.0,2,0,tốt,
+422210956,Dầu Tẩy Trang Kosé Softymo Làm Sạch Sâu Lỗ Chân Lông 230ml,5.0,2,0,thích,
+422210957,Dầu Tẩy Trang Kosé Softymo Dưỡng Sáng Da 230ml,5.0,3,0,ổn,
+422210980,Combo 3 Gel Rửa Mặt La Roche-Posay Cho Da Dầu Nhạy Cảm 50ml,4.857142857142857,12,3,tốt,chán
+422211119,Tinh Chất Chống Nắng Eucerin Nâng Tông & Dưỡng Sáng Da 30ml,5.0,1,0,rất_hợp,
+422211183,Nước Tẩy Trang Garnier Dành Cho Da Dầu Và Mụn 400ml (Mới),4.833333333333333,9,0,tốt,
+422211195,Gel Rửa Mặt SVR Không Chứa Xà Phòng Cho Da Dầu Túi 400ml,4.333333333333333,4,0,thích,
+422211200,Tinh Chất Cocoon Bí Đao N15 Giảm Bóng Nhờn Và Giảm Mụn 70ml,5.0,2,0,tốt,
+422211231,"Sữa Chống Nắng Acnes Ngăn Ngừa Mụn Cho Da Mụn, Nhạy Cảm 50g",5.0,10,0,ổn,
+422211240,Kem Dưỡng La Roche-Posay Giúp Phục Hồi Da Đa Công Dụng 40ml,5.0,0,0,,
+422211241,Kem Dưỡng La Roche-Posay Giúp Phục Hồi Da Đa Công Dụng 100ml,4.666666666666667,5,0,tốt,
+422211276,Kem Chống Nắng Naris Cosmetics Dạng Gel Dưỡng Sáng Da 90g,4.852941176470588,38,3,tốt,không_hợp
+422211389,Gel Rửa Mặt Bioderma Dành Cho Da Dầu & Hỗn Hợp 500ml,5.0,2,0,thích,
+422211446,"Combo 2 Nước Tẩy Trang L'Oreal Tươi Mát Cho Da Dầu, Hỗn Hợp 400ml",4.333333333333333,34,3,tốt,khó_chịu
+422211447,Combo 2 Nước Tẩy Trang L'Oreal Căng Mịn Da 400ml,4.208333333333333,14,3,tốt,kém
+422211489,"Combo 2 Nước Tẩy Trang Senka Ngừa Mụn, Kiểm Soát Nhờn 230ml",4.833333333333333,11,1,tốt,khó_chịu
+422211490,Combo 2 Sữa Rửa Mặt Senka Tạo Bọt Chiết Xuất Tơ Tằm Trắng 120g,4.6,4,1,thích,khó_chịu
+422211501,Sữa Rửa Mặt Eucerin Dịu Nhẹ Cho Da Nhạy Cảm 100ml (Mới),4.761904761904762,22,2,tốt,không_thích
+422211548,Combo 2 Kem Dưỡng Olay Luminous Sáng Da Mờ Thâm Nám Ban Đêm 50g,5.0,3,0,nhanh,
+422211549,Combo 2 Kem Dưỡng Olay Luminous Sáng Da Mờ Thâm Nám Ban Ngày 50g,4.714285714285714,2,0,tốt,
+422211640,Bông Tẩy Trang Hotosu Cao Cấp 150 Miếng,4.166666666666667,4,1,ổn,chậm
+422211840,Gel Rửa Mặt Garnier Vitamin C Sạch Sâu Dịu Nhẹ Sáng Da 120ml,5.0,1,0,ổn,
+422211878,[Mini] Serum Skin1004 Rau Má Giảm Mụn & Phục Hồi Da 30ml,4.68,22,1,tốt,không_thích
+422211997,"Combo 2 Kem Chống Nắng Caryophy Nâng Tone, Ngừa Mụn 50ml",4.222222222222222,10,3,ổn,tệ
+422212097,Sữa Chống Nắng Senka Cho Da Nhạy Cảm 40ml,4.785714285714286,19,2,tốt,không_hợp
+422212100,Kem Chống Nắng Skin1004 Cho Da Nhạy Cảm SPF 50+ 20ml,4.425,32,13,tốt,tệ
+422212247,"Dung Dịch Hada Labo Dưỡng Sáng Da, Giảm Thâm Sạm 40ml",5.0,0,0,,
+422212330,Combo Cocoon Kem Chống Nắng 50ml + Nước Tẩy Trang Bí Đao 500ml,4.25,3,0,tốt,
+422212331,Combo 2 Bông Tẩy Trang Hotosu Cao Cấp 150 Miếng,4.5,5,3,tốt,không_đáng
+422212333,Combo 5 Bông Tẩy Trang Hotosu Cao Cấp 150 Miếng,5.0,4,0,tốt,
+422212360,Serum Chống Nắng Sunplay Ngừa Sạm Nám Dạng Tinh Chất 50g,5.0,5,0,tốt,
+422212361,Serum Chống Nắng Sunplay Ngừa Sạm Nám Dạng Sữa 50g,5.0,5,2,tốt,tệ
+422212870,[Mini] Gel Rửa Mặt Bioderma Tạo Bọt Cho Da Nhạy Cảm 45ml,5.0,5,0,tốt,
+422212871,"Combo 10 Mặt Nạ Caryophy Giảm Mụn, Thâm & Dưỡng Ẩm Da 22g",5.0,3,0,ổn,
+422212892,[Mini] Gel Rửa Mặt Bioderma Dành Cho Da Dầu & Hỗn Hợp 45ml,5.0,6,0,tốt,
+422213308,"Combo 2 Tinh Chất Bí Đao Cocoon Làm Giảm Mụn, Mờ Thâm 70ml",4.666666666666667,1,2,tốt,không_hợp
+422213312,Combo 2 Sữa Rửa Mặt Senka Dành Cho Da Mụn 100g,4.666666666666667,8,0,tốt,
+422213992,Serum Garnier Tăng Cường Sáng Da Mờ Thâm Ban Đêm 30ml,3.6,4,2,tốt,chán
+422214000,[Mini] Kem Chống Nắng La Roche-Posay Kiểm Soát Dầu SPF50+ 15ml (Mới),1.0,0,0,,
+422214012,Kem Dưỡng d program Ngăn Ngừa Lão Hóa 45g,5.0,4,0,thích,
+422214044,Combo 2 Kem Chống Nắng Cocoon Bí Đao Quang Phổ Rộng 50ml,5.0,5,1,tốt,hạn_chế
+422214117,"Tẩy Da Chết Hóa Học Teana Dưỡng Da Căng Bóng, Giảm Mụn 30ml",5.0,1,0,tốt,
+422214134,"Túi Refill Dung Dịch Hada Labo Dưỡng Ẩm Da Thường, Khô 170ml",5.0,2,0,tốt,
+422214146,Combo 2 Sữa Rửa Mặt Simple Giúp Da Sạch Thoáng 150ml,4.258064516129032,16,5,thích,không_thích
+422214147,"Combo 2 Gel Rửa Mặt Simple Thanh Khiết, Giảm Bóng Nhờn 150ml",4.857142857142857,14,0,ổn,
+422214148,Combo 2 Nước Tẩy Trang Simple Làm Sạch Trang Điểm Vượt Trội 400ml,3.0,0,0,,
+422214149,Combo 2 Sữa Rửa Mặt Simple Dưỡng Ẩm Cho Da Khỏe Và Mịn Màng 150ml,4.8,2,0,ổn,
+422214321,Combo 2 Kem Chống Nắng L'Oreal Paris X20 Thoáng Da Mỏng Nhẹ 50ml,4.0,6,2,tốt,chán
+422214339,Lotion Chấm Mụn Bye Bye Blemish Dành Cho Mụn Sưng Viêm 30ml,5.0,1,1,ổn,không_đáng
+422214340,"Lotion Chấm Mụn Bye Bye Blemish Cho Mụn Trắng, Sưng Đỏ 30ml",5.0,7,0,tốt,
+422214342,"Serum Bye Bye Blemish Phục Hồi Da, Se Khít Lỗ Chân Lông 30ml",4.666666666666667,7,0,tốt,
+422214343,"Tinh Chất Peel Da Bye Bye Blemish Mờ Thâm, Mịn Da 30ml",5.0,1,0,ổn,
+422214672,Sữa Chống Nắng La Roche-Posay Cho Da Dầu Mụn 50ml,3.8,3,2,thích,không_hợp
+422215096,Serum Bioderma Dưỡng Ẩm Và Làm Dịu Dành Cho Da Nhạy Cảm 30ml,4.0,2,1,ổn,chậm
+422215267,"Kem Dưỡng Skintific 5X Ceramide Cấp Ẩm, Phục Hồi Da 30g",4.0,2,0,tốt,
+422215608,Kem Dưỡng Curél Cấp Ẩm Sáng Mịn 40g,5.0,2,0,tốt,
+422215665,Sữa Chống Nắng Cocoon Chiết Xuất Bí Đao Quang Phổ Rộng 50ml,5.0,7,0,thích,
+422215666,Sữa Chống Nắng Cocoon Chiết Xuất Bí Đao Quang Phổ Rộng 15ml,4.0,0,0,,
+422215804,Combo 2 Sữa Chống Nắng Sunplay Skin Aqua Dưỡng Da Sáng Mịn 55g,4.625,18,1,tốt,kém
+422215947,"Sữa Rửa Mặt Embryolisse Làm Sạch Sâu, Chống Oxy Hóa 200ml",4.0,1,0,ổn,
+422216098,Xịt Khoáng Evoluderm Cấp Nước & Làm Dịu Da 50ml,4.4,3,0,tốt,
+422216271,"Nước Tẩy Trang JMsolution Ceramide Cho Da Thường, Khô 500ml",4.75,5,0,ổn,
+422216293,"Mặt Nạ Foodaholic Niacinamide Dưỡng Sáng, Căng Bóng Da 23ml",5.0,3,0,tuyệt_vời,
+422216295,"Mặt Nạ Foodaholic Glutathione Dưỡng Sáng, Đều Màu Da 23ml",5.0,1,0,ổn,
+422216352,Kem Dưỡng La Roche-Posay Giảm Mụn Hiệu Quả 40ml,5.0,4,1,ổn,chậm
+422216354,Kem Dưỡng La Roche-Posay Giảm Mụn Hiệu Quả 7.5ml,4.8,6,2,hiệu_quả,không_hợp
+422216416,Combo 2 Kem Chống Nắng La Roche-Posay Kiểm Soát Dầu SPF50+ 50ml,4.385964912280702,59,11,tốt,không_hợp
+422216449,Combo Nước Tẩy Trang Simple Làm Sạch Trang Điểm 200ml+400ml,4.25,2,0,ổn,
+422216487,Combo 2 Sữa Rửa Mặt Vichy Dạng Gel Làm Sạch Sâu Da Dầu Mụn 50ml,5.0,1,0,thích,
+422216594,Combo 2 Nước Tẩy Trang Bioderma Dành Cho Da Dầu & Hỗn Hợp 500ml,4.333333333333333,10,2,thích,không_ổn
+422216596,Combo 2 Serum Vichy Giải Cứu Làn Da Tức Thì 10ml,5.0,9,0,thích,
+422216602,"Combo 2 Nước Tẩy Trang La Roche-Posay Cho Da Dầu, Nhạy Cảm 400ml",4.666666666666667,6,0,thích,
+422216603,Combo 2 Nước Tẩy Trang La Roche-Posay Dành Cho Da Nhạy Cảm 400ml,4.857142857142857,3,0,tốt,
+422216605,Kem Chống Nắng The Lab Nâng Tông Da SPF50+ PA++++ 40ml,5.0,2,0,thích,
+422216896,Combo 2 Mặt Nạ innisfree Chăm Sóc Lỗ Chân Lông 100ml,5.0,2,0,thích,
+422216990,"Serum Chống Nắng L'Oreal Phổ Rộng Mỏng Nhẹ, Bảo Vệ Da 30ml",3.857142857142857,7,0,tốt,
+422217029,Bộ Gel Rửa Mặt SVR Không Chứa Xà Phòng Cho Da Dầu 200ml + 55ml,4.2,5,0,tốt,
+422217292,Combo 2 Sữa Chống Nắng Sunplay Skin Aqua Dưỡng Da Sáng Mịn 25g,4.761904761904762,22,5,tốt,chậm
+422217480,Toner Eucerin Dành Cho Da Nhờn Mụn 100ml,4.666666666666667,7,0,tốt,
+422217967,"Kem Dưỡng Torriden Làm Dịu, Phục Hồi Da Bị Tổn Thương 80ml",5.0,2,0,tốt,
+422217972,"Mặt Nạ Wonjin Cung Cấp Năng Lượng, Phục Hồi Chuyên Sâu 30g",5.0,3,0,tốt,
+422217992,Mặt Nạ Wonjin Dưỡng Sáng Da 30g,5.0,1,0,tốt,
+422218099,Hộp 10 Miếng Mặt Nạ Wonjin Phục Hồi Chuyên Sâu 30g/M,5.0,1,0,siêu_đỉnh,
+422218100,Hộp 10 Miếng Mặt Nạ Wonjin Dưỡng Sáng Da 30g/M,3.3333333333333335,3,2,xuất_sắc,thất_vọng
+422218101,"Hộp 10 Miếng Mặt Nạ Wonjin Nâng Cơ, Trẻ Hóa Da 30g/M",5.0,1,0,tốt,
+422218203,Combo 10 Mặt Nạ Colorkey Dưỡng Ẩm Sáng Da Với Niacinamide 25ml,4.0,3,0,ổn,
+422218283,Combo 2 Gel Rửa Mặt SVR Không Chứa Xà Phòng Cho Da Dầu 400ml/ Chai,5.0,3,0,thích,
+422218365,Sữa Chống Nắng Anessa Dưỡng Da Kiềm Dầu 20ml (Mới),5.0,3,0,tốt,
+422218629,Combo 2 Sữa Rửa Mặt Cetaphil Dịu Lành Cho Da Nhạy Cảm 500ml (Mới),3.6666666666666665,1,0,phù_hợp,
+422218631,Combo 2 Sữa Rửa Mặt Cetaphil Dịu Lành Cho Da Nhạy Cảm 125ml (Mới),4.4,4,0,tốt,
+422218746,Mặt Nạ Ngủ Môi Care:Nel Chiết Xuất Quả Lựu 23g,4.555555555555555,10,1,tốt,khó_chịu
+422218829,Combo 10 Mặt Nạ BNBG Glutathione Dưỡng Sáng Da 30ml,5.0,4,0,tốt,
+422218905,Mặt Nạ Sur.Medic+ Cung Cấp Multi Vitamin 30g,5.0,3,0,ghiền,
+422219150,Kem Dưỡng Forencos Dầu Marula Dưỡng Sáng Da Ban Đêm 15g,5.0,0,0,,
+422219286,"Combo 10 Mặt Nạ Wonjin Siêu Tinh Chất Nâng Cơ, Trẻ Hoá Da 27g",5.0,1,0,ổn,
+422219308,Combo 2 Sữa Chống Nắng Sunplay Bảo Vệ Vượt Trội 70g,4.75,5,0,ổn,
+422219315,Gel Rửa Mặt Bioderma Làm Sạch Sâu Và Giảm Mụn 200ml,5.0,1,0,tốt,
+422219399,"Serum Acnes B5 Tăng Cường Dưỡng Ẩm, Làm Dịu Da 25ml",5.0,17,0,tốt,
+422219400,Kem Dưỡng Acnes Giảm Mụn Chuyên Sâu 20g,4.8,13,1,hiệu_quả,khó_chịu
+422219577,Combo 2 Sữa Chống Nắng Anessa Cho Da Nhạy Cảm & Trẻ Em 60ml (Mới),5.0,1,0,tốt,
+422219813,Bộ Sản Phẩm La Roche-Posay Giúp Phục Hồi & Làm Dịu Da 2 Món,5.0,1,0,tuyệt_vời,
+422220080,"Combo 10 Mặt Nạ Sinh Học Emmié Phục Hồi, Dịu Da 23g",4.6,2,0,ghiền,
+422220466,Combo 2 Nước Tẩy Trang Neutrogena Thanh Lọc Và Làm Sạch Sâu 400ml,4.666666666666667,1,1,thích,không_thích
+422220469,Combo 2 Kem Dưỡng Ẩm Neutrogena Cấp Nước Cho Da Dầu 50g,2.75,0,0,,
+422220606,Combo 2 Nước Tẩy Trang Garnier Dành Cho Da Dầu Và Mụn 400ml (Mới),4.625,6,1,tốt,không_tốt
+422221764,Serum La Roche-Posay Giảm Thâm Nám & Dưỡng Sáng Da 30ml,4.7,3,1,tốt,buồn
+422221873,Combo 2 Sữa Chống Nắng Anessa Dưỡng Da Kiềm Dầu 60ml+20ml (Bản Mới 2024),3.8,4,1,tốt,thất_vọng
+422221911,"Serum Acnes Lab C15 Dưỡng Sáng, Mờ Thâm, Ngừa Lão Hóa 15ml",4.571428571428571,10,1,hiệu_quả,chậm
+422222135,Nước Cân Bằng Cocoon Sen Hậu Giang Làm Dịu Da Nhạy Cảm 310ml,5.0,2,0,tốt,
+422222535,Thùng 30 Túi Bông Tẩy Trang Hotosu Cao Cấp 150 Miếng,4.833333333333333,4,1,ổn,khó_chịu
+422222786,Combo 2 Sữa Chống Nắng Cocoon Bí Đao Quang Phổ Rộng 50ml,5.0,1,0,tốt,
